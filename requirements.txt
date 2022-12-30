@@ -1,0 +1,5 @@
+python==3.9
+python-dotenv>=0.21.0
+arviz
+causalgraphicalmodels
+daft
